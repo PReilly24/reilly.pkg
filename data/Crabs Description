@@ -1,0 +1,15 @@
+What each column is describing:
+
+1) color - Describes the color of the individual crab (blue or orange).
+
+2) sex - Describes the sex of the individual crab (M or F).
+
+3) frontal_lobe - Describes the size of the individual crab's frontal lobe.
+
+4) rear_width - Describes the size of the individual crab's rear.
+
+5) carapace_length - Decribes the size of the individual crab's carapace length.
+
+6) body_depth - Describes the size of the individual crab's carapace width.
+
+7) Latitude - Describes the exact latitude the individual crab was found at.
