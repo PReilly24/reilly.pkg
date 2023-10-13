@@ -160,13 +160,13 @@ ggplot(surveys, aes(x = species_id, y = hindfoot_length, color = weight)) +
 1) Add and commit this document (5 pts)
 
 ```
-#In the "gt" tab, select the project two domument. Click the git button and select "commit." Then
+#In the "git" tab, select the project two domument. Click the git button and select "commit." Then type a commit message and click the "commit" button.
 ```
 
 2) Push your changes to github (10 pts)
 
 ```
-#Commands here
+Under the "git" tab, click the "push" button with the green arrow.
 ```
 
 
