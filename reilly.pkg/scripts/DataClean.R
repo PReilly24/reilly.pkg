@@ -1,0 +1,1 @@
+#This function will clean the data by removing NA values and organizing it in other ways.

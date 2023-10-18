@@ -1,0 +1,1 @@
+#This funciton will run a linear model for a predictor and a response from a dataset.
